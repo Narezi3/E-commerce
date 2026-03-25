@@ -1,0 +1,17 @@
+Problem Statement
+E-commerce Data Analysis Power BI project
+A US-Based Ecommerce sales company  wants us to create a sales dashboard showing information of YTD Sales and generate
+insights  for below scenarios:
+
+1.Create a KPI Banner showing YTD Sales ,YTD Profit,YTD Quantity Sold and YTD Profit Margin
+2.Find YOY growth for each KPI.
+3.Find the YTD Sales,PYTD Sales,YOY Sales growth for different customer category using a table chart.
+4.Find YTD sales performance by each state using a map
+5.Top 5 and bottom 5 products  by sales using a bar chart
+6.YTD Sales by Region to know best and worst performing region all over the country using a doughnut chart
+7.YTD Sales  by Shipping type to get the best shipping type percentage using a doughnut chart
+
+Deliverables
+1. Prepare a comprehensive report in a PowerPoint highlighting the Key findings.
+2. Explain the business impact of your findings and how they can inform decision-making
+3. Propose at least two strategic actions based on your analysis that could help improve business outcomes.
